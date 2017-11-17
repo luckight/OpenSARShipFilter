@@ -10,7 +10,7 @@ If you have used this tool in your research, please cite our work.
 Reference: 
 X. Leng,etc.On Noncircularity of Sea Surface in High Resolution Synthetic Aperture Radar Imagery,IEEE TGRS, in previewing.
 
-Contact Email: luckight@163.com
+Contact Email: luckight@163.com, kangmiao15@163.com, lzkmylz@163.com
 ///////////////////////////////////////////////////////////////////////////////
 
 1. Prerequisites
