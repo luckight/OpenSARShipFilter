@@ -10,6 +10,8 @@ If you have used this tool in your research, please cite our work.
 Reference: 
 X. Leng,etc.On Noncircularity of Sea Clutter, Ships, and Instrumental Artifacts in Single-Channel Synthetic Aperture Radar Imagery,IEEE TGRS, in previewing.
 
+The MATLABsource code can be downloaded from https://cn.mathworks.com/matlabcentral/fileexchange/66716-opensarshipfiter-package-sourcecode
+
 Contact Email: luckight@163.com, kangmiao15@163.com, lzkmylz@163.com
 ///////////////////////////////////////////////////////////////////////////////
 
