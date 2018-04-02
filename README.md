@@ -8,7 +8,7 @@ The OpenSARShip dataset provided by Shanghai Jiaotong University can be download
 
 If you have used this tool in your research, please cite our work.
 Reference: 
-X. Leng,etc.On Noncircularity of Sea Surface in Single-Channel Synthetic Aperture Radar Imagery,IEEE TGRS, in previewing.
+X. Leng,etc.On Noncircularity of Sea Clutter, Ships, and Instrumental Artifacts in Single-Channel Synthetic Aperture Radar Imagery,IEEE TGRS, in previewing.
 
 Contact Email: luckight@163.com, kangmiao15@163.com, lzkmylz@163.com
 ///////////////////////////////////////////////////////////////////////////////
